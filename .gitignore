@@ -1,0 +1,6 @@
+# notes
+*.txt
+
+# api keys
+config.php
+.env
