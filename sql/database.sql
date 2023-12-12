@@ -1,8 +1,8 @@
 -- Create a database
-CREATE DATABASE IF NOT EXISTS event_management;
+CREATE DATABASE IF NOT EXISTS database_1;
 
 -- Use the database
-USE event_management;
+USE database_1;
 
 -- Table for users
 CREATE TABLE IF NOT EXISTS users (

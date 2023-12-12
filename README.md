@@ -12,7 +12,7 @@
 
 ## INSTALATION
 
-- Create a database called: database
+- Create a database called: database_1
 - Import the file: sql/database.sql
 - Start Apache and MySQL.
 - If you want to upload your own photos, add them in images folder.
